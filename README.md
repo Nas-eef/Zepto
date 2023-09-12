@@ -1,5 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+![zepto5](https://github.com/Nas-eef/Zepto/assets/127252195/a99fae60-d246-4728-afb3-6fe00ae94a57)
+![zepto1](https://github.com/Nas-eef/Zepto/assets/127252195/cd823e84-80cf-4844-abf1-fdf9f4a987a1)
+![zepto4](https://github.com/Nas-eef/Zepto/assets/127252195/994974f6-3049-44d0-8635-13812ab2c475)
+![zepto3](https://github.com/Nas-eef/Zepto/assets/127252195/4eb989ed-d108-41b0-9a56-55770c3e7259)
+![zepto2](https://github.com/Nas-eef/Zepto/assets/127252195/c5595f00-4705-4149-843a-f6584f4ed2e3)
+
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -11,6 +20,8 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 To start Metro, run the following command from the _root_ of your React Native project:
 
 ```bash
+
+
 # using npm
 npm start
 
